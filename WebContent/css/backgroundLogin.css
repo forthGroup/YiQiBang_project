@@ -1,0 +1,82 @@
+body{
+	background: url("../img/background.jpg");
+	background-repeat: no-repeat;
+	background-size:100%;
+}
+.container{
+    height:500px;
+    width:87% !important;
+    font-size:15px;
+    background:#A77C1E;
+    margin:80px auto;
+}
+.logo{
+	width:200px;
+	height:70px;
+	margin-top:60px;
+	margin-left:500px;
+}
+.user{
+	margin-top:15px;
+	margin-left:375px;
+}
+.user input{
+	width:400px;
+	height:35px;
+	border-radius:5px;
+	text-indent:15px;
+}
+.pwd{
+	margin-top:15px;
+	margin-left:375px;
+}
+.pwd input{
+	width:400px;
+	height:35px;
+	border-radius:5px;
+	text-indent:15px;
+}
+.code{
+	margin-top:15px;
+	margin-left:375px;
+	position:relative;
+}
+.code img{
+	width:120px;
+	height:45px;
+	margin-top:5px;
+}
+.code input{
+	width:150px;
+	height:35px;
+	position:absolute;
+	left:130px;
+	bottom:0px;
+	text-indent:15px;
+	border-radius:5px;
+}
+.btn1{
+	height:30px;
+	margin-top:40px;
+}
+.successBtn{
+	margin-left:400px;
+	border-radius:5px;
+	background:#BB9A34;
+	border:1px solid #BB9A34;
+}
+.failBtn{
+	margin-left:100px;
+	border-radius:5px;
+	background:#BB9A34;
+	border:1px solid #BB9A34;
+}
+
+
+
+
+
+
+
+
+
